@@ -1,0 +1,90 @@
+
+
+html {
+  background-image: url("seabed\ goad.jpg");
+   }
+
+   p, ul{
+       color: rgb(0, 255, 200);
+   }
+   
+   h1, h2{
+       color: rgb(166, 255, 0);
+   }
+
+   h1,h2,h3,p,img,a {
+    text-align: center;
+  }
+   
+   h1 {
+     margin: 10px 10px 10px 10px;
+     text-decoration: none;
+     font: normal 40px 'Permanent Marker', cursive; 
+   }
+   
+   h2 {
+     margin: 10px 10px 10px 10px;
+     text-decoration: none;
+     font: normal 20px 'Permanent Marker', cursive; 
+   }
+
+   h3{
+    margin: 10px 10px 10px 10px;
+    text-decoration: none;
+    font: normal 18px 'Permanent Marker', cursive; 
+    color: aqua
+   }
+   
+   h1 {
+      text-shadow: 0px 1px 0px yellow, 0px 2px 0px gray,
+      0px 3px 0px orange, 0px 4px 0px red, 0px 5px 0px blue,
+      0px 6px 5px aqua;
+   }
+
+   ul{
+    margin: 10px 10px 10px 10px;
+    text-decoration: none;
+    font: normal 15px 'Permanent Marker', cursive;  
+   }
+   
+   p, img {
+     text-align: justify;
+     font: normal 15px 'Permanent Marker', cursive; 
+   }
+   
+   body {
+     width: 400px;
+     margin: 0 auto 0 auto;
+   }
+   
+   
+   a{
+     color: limegreen;
+     margin: 10px 20px 10px 0px;
+     text-decoration: none;
+     font: normal 15px 'Permanent Marker', cursive; 
+   }
+   
+   a:hover {
+     color:orange;
+     text-decoration: underline;
+   }
+   
+   a:visited {
+     color: greenyellow;
+   }
+   
+   
+   footer {
+     color:aqua;
+     text-decoration: none;
+     text-align: center;
+     font: normal 15px 'Permanent Marker', cursive;
+     border: 8px ridge rgb(166, 255, 0);
+     box-align: center;
+     margin: 0px 0px 10px 0px;
+     box-shadow: 0 0 10px 5px darkturquoise;
+   }
+
+ 
+
